@@ -1,0 +1,1 @@
+import { Default as Logo } from './Logo';
